@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @johnjinto
 - 👀 I’m interested in Webdevelopment and iOT
+- 👷🏼‍♂️ I am an Instrumentation Engineer with 13 years of Oil and Gas industry experience
 - 🌱 I’m currently learning JS
-- 💞️ I’m looking to collaborate on MDN documents
 - 📫 Please reach me on johnjinto@gmail.com
 
 <!---
