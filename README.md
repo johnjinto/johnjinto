@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @johnjinto
 - 👀 I’m interested in Web development and ioT
-- 👷🏼‍♂️ I am an industrial control system engineer with 13 years of Oil and Gas industry experience
+- 👷🏼‍♂️ After up-skilling myself for a career change to web development, I am finally in a position to take the plunge to coding! 
+     I take the transition from industrial control system engineering profession of 13 years.
 - 🌱 I’m currently learning JS
 - 📫 Please reach me on johnjinto2012@gmail.com
 
